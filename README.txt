@@ -1,11 +1,7 @@
 
-TITLE: 
- Webworks25 - 100% Fully Responsive Free HTML5 Bootstrap Template
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
 
-Website: http://webworks25.online
+Website: http://webworks25.tk
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
